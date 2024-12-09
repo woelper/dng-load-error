@@ -1,0 +1,7 @@
+[package]
+name = "dng"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+quickraw = { version = "0.1.6", features = ["image"] }
